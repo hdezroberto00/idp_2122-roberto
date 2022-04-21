@@ -24,7 +24,7 @@ Compruebo el DNS
 
 ---
 
-## Unirse al dominio
+## 3.Unirse al dominio
 
 ![](img/04.png)
 
