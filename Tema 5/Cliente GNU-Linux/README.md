@@ -10,13 +10,13 @@ Cambio el nombre de host de la máquina.
 
 ![](img/02.png)
 
-Establezco las DNS de la máquina.
+En la máquina linux establezco como DNS la ip del Windows Server y como secundario 1.1.1.1.
 
 ---
 
 ![](img/03.png)
 
-Compruebo el DNS
+Compruebo el DNS en la terminal.
 
 ---
 
