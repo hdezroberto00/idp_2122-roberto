@@ -1,10 +1,6 @@
-<center>
-
 # Cliente GNU/Linux
 
-</center>
-
-## Preparar el cliente
+## 2. Preparar el cliente
 
 ![](img/01.png)
 
