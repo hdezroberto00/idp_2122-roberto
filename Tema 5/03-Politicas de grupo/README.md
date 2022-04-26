@@ -71,3 +71,17 @@ Ahora aplico directivas a la OU de **sith01**.
 Directivas de escritorio y explorador de windows aplicadas a la OU de **siths**.
 
 `NOTA: en "Ocultar estas unidades específicas en Mi PC" eligo la combinación de bloquear solo las unidades A y B`
+
+---
+
+## 1.5 Comprobar que se aplican las directivas
+
+![](img/13.png)
+
+Resumen de configuración de la OU **jedi**.
+
+---
+
+![](img/14.png)
+
+Resumen de configuración de la OU **sith**.
