@@ -85,3 +85,34 @@ Resumen de configuración de la OU **jedi**.
 ![](img/14.png)
 
 Resumen de configuración de la OU **sith**.
+
+---
+
+![](img/15.png)
+
+Entro con el usuario obiwan del dominio en la MV cliente y compruebo que no deja entrar al panel de control ni a configuración.
+
+---
+
+![](img/16.png)
+
+En este mismo usuario compurebo que no aparece el icono de red.
+
+---
+
+# 2. Paquete MSI
+
+![](img/17.png)
+
+Creo la carpeta **e:\software**.
+
+---
+
+![](img/18.png)
+
+Comparto esta carpeta como recurso de red y le doy permiso total a todos los usuarios del dominio.
+
+---
+
+## 2.2 Crear el paquete MSI con EMCO Software
+
