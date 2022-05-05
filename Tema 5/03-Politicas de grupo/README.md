@@ -114,5 +114,54 @@ Comparto esta carpeta como recurso de red y le doy permiso total a todos los usu
 
 ---
 
-## 2.2 Crear el paquete MSI con EMCO Software
+## 2.2 Crear el paquete MSI de Firefox
 
+![](img/19.png)
+
+Descargo el paquete MSI de Firefox.
+
+---
+
+# 3. Aplicar directuva de Equipo
+
+## 3.1 Crear nueva GPO en el servidor
+
+![](img/20.png)
+
+Creo la OU equipos01 y muevo los equipos del dominio computers/* dentro de esta OU.
+
+---
+
+![](img/21.png)
+
+Creo la GPO **software01** dentro de la OU **equipos01**.
+
+---
+
+![](img/22.png)
+
+Configuro la directiva para incluir el msi de Firefox, le indico la ruta del recurso de red y y la configuro en modo asignado.
+
+---
+
+![](img/23.png)
+
+Añado usuarios del dominio al filtrado de seguridad de la GPO.
+
+---
+
+![](img/24.png)
+
+Fuerzo las actualizaciones de las directivas a través de la terminal.
+
+---
+
+![](img/25.png)
+
+Resumen de la configuración de la directiva.
+
+## 3.2 Comprobar desde los clientes
+
+![](img/26.png)
+
+Desde el equipo cliente de Windows 10 compruebo que se ha instalado el anvegador firefox.
