@@ -160,6 +160,8 @@ Fuerzo las actualizaciones de las directivas a través de la terminal.
 
 Resumen de la configuración de la directiva.
 
+---
+
 ## 3.2 Comprobar desde los clientes
 
 ![](img/26.png)
