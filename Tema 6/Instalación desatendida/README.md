@@ -44,5 +44,13 @@ Añado el USB en VirtualBox.
 
 ---
 
-## Copiar fichero XML en pendrive
+## 3.3 Copiar fichero XML en pendrive
+
+![](img/07.png)
+
+Localizo dónde está montado el pen-drive y copio el archivo xml al usb.
+
+---
+
+![](img/08.png)
 
