@@ -54,3 +54,19 @@ Localizo dónde está montado el pen-drive y copio el archivo xml al usb.
 
 ![](img/08.png)
 
+Creo una MV2 nueva con un tamaño de disco duro similar a la anterior.
+
+---
+
+![](./img/09.png)
+
+Añado el USB a la máquina virtual.
+
+---
+
+![](img/10.png)
+
+Eligo instalación y en opciones de arranque escribo **autoyast=usb:///roberto01.xml**.
+
+---
+
