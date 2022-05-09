@@ -70,3 +70,4 @@ Eligo instalación y en opciones de arranque escribo **autoyast=usb:///roberto01
 
 ---
 
+aa
