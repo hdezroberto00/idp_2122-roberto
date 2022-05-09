@@ -1,0 +1,48 @@
+# Instalación desatendida
+
+# 2 Preparativos
+
+## Personalizamos la MV
+
+![](img/01.png)
+
+Instalon **inkscape**.
+
+---
+
+![](img/02.png)
+
+Instalo **vlc**.
+
+---
+
+# 3. Fichero de respuestas
+
+![](img/03.png)
+
+Instalo **autoyast 2**.
+
+---
+
+![](img/04.png)
+
+Clono el sistema haciendo uso del comando **/sbin/yast2 clone_system**.
+
+---
+
+![](img/05.png)
+
+Hago una copia de seguridad del perfil.
+
+---
+
+## 3.2 Configurar USB en la MV de VirtualBox
+
+![](img/06.png)
+
+Añado el USB en VirtualBox.
+
+---
+
+## Copiar fichero XML en pendrive
+
