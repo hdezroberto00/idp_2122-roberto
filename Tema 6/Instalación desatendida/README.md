@@ -70,3 +70,47 @@ Eligo instalación y en opciones de arranque escribo **autoyast=usb:///roberto01
 
 ---
 
+![](img/11.png)
+
+Se instala todo sin problema y compruebo que se guarda el usuario y toda la configuración.
+
+---
+
+# 5. Instalación desatendida desde ISO
+
+## 5.1 Software para editar ficheros ISO
+
+![](img/12.png)
+
+Añado el repositorio para poder descargar isomaster.
+
+---
+
+![](img/13.png)
+
+Instalo isomaster.
+
+---
+
+## 5.2 Peparar la ISO
+
+![](img/14.png)
+
+Inicio isomaster y añado mi archivo .xml al .iso.
+
+---
+
+![](img/15.png)
+
+Grabo la iso modificada como **opensuse-roberto01.iso**.
+
+---
+
+## 5.3 Instalación desatendida desde la ISO
+
+![](img/16.png)
+
+Creo una tercera máquina virtual con el mismo tamaño de disco.
+
+---
+
