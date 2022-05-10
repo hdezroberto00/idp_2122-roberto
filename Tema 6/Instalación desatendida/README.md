@@ -126,3 +126,8 @@ Veo que OpenSUSE reconoce el archivo .xml.
 
 ---
 
+![](img/19.png)
+
+Inicio la máquina después de la instalación y compruebo que el nombre dehost es el mismo, se guarda el usuario y los programas que tenía en la anterior máquina.
+
+---
