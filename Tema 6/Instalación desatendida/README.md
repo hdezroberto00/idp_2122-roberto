@@ -123,3 +123,6 @@ Introduzco la iso en la MV3.
 ![](img/18.png)
 
 Veo que OpenSUSE reconoce el archivo .xml.
+
+---
+
