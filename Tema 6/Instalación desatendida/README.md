@@ -1,6 +1,6 @@
 # Instalación desatendida
 
-# 2 Preparativos
+# 2. Preparativos
 
 ## Personalizamos la MV
 
