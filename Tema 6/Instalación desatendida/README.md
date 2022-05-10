@@ -114,3 +114,12 @@ Creo una tercera máquina virtual con el mismo tamaño de disco.
 
 ---
 
+![](img/17.png)
+
+Introduzco la iso en la MV3.
+
+---
+
+![](img/18.png)
+
+Veo que OpenSUSE reconoce el archivo .xml.
