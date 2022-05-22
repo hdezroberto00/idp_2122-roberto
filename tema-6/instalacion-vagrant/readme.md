@@ -126,3 +126,24 @@ Entro en la MV y compruebo que se ha instalado el software.
 
 ## 6.1 Preparar la MV VirtualBox
 
+Utilizo una MV que ya tenía creada.
+
+![](img/24.png)
+
+Creo el usuario **vagrant** y le pongo de contraseña **vagrant**.
+
+![](img/25.png) ![](img/26.png)
+
+Descargo la clave pública.
+
+![](img/27.png)
+
+Modifico los permisos y el propietario de la carpeta.
+
+![](img/28.png)
+
+Añado esta línea a /etc/sudoers.
+
+![](img/29.png)
+
+# 6.2 Crear la caja Vagrant
