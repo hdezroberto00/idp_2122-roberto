@@ -147,3 +147,20 @@ Añado esta línea a /etc/sudoers.
 ![](img/29.png)
 
 # 6.2 Crear la caja Vagrant
+
+Creo la carpeta para este paso, veo la lista de MV que tengo en VirtualBox y creo mi propia caja.
+
+![](./img/30.png)
+
+Añado la nueva caja al repositorio local de cajas de vagrant.
+
+![](img/31.png)
+
+Compruebo la lista de cajas vagrant.
+
+![](img/32.png)
+
+Edito el fichero Vagrantfile
+
+![](img/33.png)
+
