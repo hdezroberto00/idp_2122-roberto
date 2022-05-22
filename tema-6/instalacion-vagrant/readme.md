@@ -122,3 +122,7 @@ Entro en la MV y compruebo que se ha instalado el software.
 
 ![](img/23.png)
 
+# 6. Proyecto: Caja personalizada
+
+## 6.1 Preparar la MV VirtualBox
+
