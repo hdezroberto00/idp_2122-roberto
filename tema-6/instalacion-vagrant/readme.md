@@ -160,7 +160,16 @@ Compruebo la lista de cajas vagrant.
 
 ![](img/32.png)
 
+## 6.3 Vagrantfile
+
 Edito el fichero Vagrantfile
 
 ![](img/33.png)
 
+Inicio la máquina.
+
+![](img/34.png)
+
+Me conecto a la MV por ssh.
+
+![](img/35.png)
