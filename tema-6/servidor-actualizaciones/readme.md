@@ -14,6 +14,8 @@ Activo que apache2 al inicio.
 
 Compruebo el estado de apache2.
 
+![](img/1.1-3.png)
+
 ## 1.2 Cortafuegos
 
 Abro el puerto 80 en el cortafuegos por comandos.
