@@ -48,3 +48,56 @@ Al editarlo de esta manera el servicio se ejcutará con el usuario tftp, por lo 
 
 ![](img/3.2-3.png)
 
+# 4. Servicio NFS
+
+## 4.1 Instalar el servicio
+
+Instalo **nfs-kernel-server**.
+
+![](img/4.1-1.png)
+
+Instalo **yast2-nfs-server**.
+
+![](img/4.1-2.png)
+
+## 4.2 Configurar
+
+Descargo una iso de opensuse.
+
+![](img/4.2-1.png)
+
+Creo el directorio **/mnt/opensuse.iso.d**.
+
+![](img/4.2-2.png)
+
+Edito el fichero **/etc/fstab** para crear un punto de montaje para la iso.
+
+![](img/4.2-3.png)
+
+Monto las configuraciones de fstab.
+
+![](img/4.2-4.png)
+
+Compruebo que se ha montado.
+
+![](img/4.2-5.png)
+
+Añado esta línea a **/etc/exports**.
+
+![](img/4.2-6.png)
+
+# 5. Menú de arranque
+
+## 5.1 Preparando el menú
+
+Creo directorios y copio archivos.
+
+![](img/5.1-1.png)
+
+Añado estas líneas al archivo **default**.
+
+![](img/5.1-2.png)
+
+
+
+**NOTA: ACTIVAR ATFTPD**
