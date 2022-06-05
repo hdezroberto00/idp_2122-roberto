@@ -40,3 +40,11 @@ Instalo el servicio
 
 ## 3.2 Cambiar la configuración
 
+Edito el archivo /etc/sysconfig/atftpd
+
+![](img/3.2-1.png)  ![](img/3.2-2.png)
+
+Al editarlo de esta manera el servicio se ejcutará con el usuario tftp, por lo que me aseguro que existe.
+
+![](img/3.2-3.png)
+
