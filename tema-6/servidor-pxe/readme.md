@@ -98,6 +98,36 @@ Añado estas líneas al archivo **default**.
 
 ![](img/5.1-2.png)
 
+## 5.3 Probando el menú desde el cliente
 
+Inicio la máquina cliente y compruebo que muestra el menú PXE.
 
-**NOTA: ACTIVAR ATFTPD**
+![](img/5.3-1.png)
+
+# 6. Configurar una imagen para instalar
+
+Creo un subdirectorio para la .iso y copio archivos.
+
+![](img/6-1.png)
+
+Edito el fichero **/srv/tftpboot/pxelinux.cfg/default**
+
+![](img/6-2.png)
+
+Inicio la máquina cliente y compruebo que muestra la iso que configuré.
+
+![](img/6-3.png)
+
+Selecciono la ISO y compruebo que comienza la instalación.
+
+![](img/6-5.png)
+
+# 7. Otra ISO
+
+Repito los pasos del apartado 6 para añadir otra iso.
+
+![](img/6-6.png)
+
+Compruebo que comienza la instalación.
+
+![](img/6-7.png)
