@@ -34,13 +34,13 @@ Configuro el servicio "dhcpd" para que se inicie automáticamente.
 
 # 3. Servicio TFTP
 
-Instalo el servicio
+Instalo el servicio.
 
 ![](img/3.1-1.png)
 
 ## 3.2 Cambiar la configuración
 
-Edito el archivo /etc/sysconfig/atftpd
+Edito el archivo /etc/sysconfig/atftpd.
 
 ![](img/3.2-1.png)  ![](img/3.2-2.png)
 
@@ -110,7 +110,7 @@ Creo un subdirectorio para la .iso y copio archivos.
 
 ![](img/6-1.png)
 
-Edito el fichero **/srv/tftpboot/pxelinux.cfg/default**
+Edito el fichero **/srv/tftpboot/pxelinux.cfg/default**.
 
 ![](img/6-2.png)
 
